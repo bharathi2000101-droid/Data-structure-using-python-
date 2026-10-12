@@ -34,16 +34,3 @@ if __name__ == "__main__":
     sorted_marks = bubble_sort(student_marks)
     
     print("Marks in Ascending Order:", sorted_marks)
-
-Output 
---- School Portal: Student Marks Management ---
-Enter the number of students: 5
-Enter the marks for 5 students:
-Student 1 marks: 78
-Student 2 marks: 45
-Student 3 marks: 92
-Student 4 marks: 56
-Student 5 marks: 88
-
-Marks before sorting : [78.0, 45.0, 92.0, 56.0, 88.0]
-Marks in Ascending Order: [45.0, 56.0, 78.0, 88.0, 92.0]
